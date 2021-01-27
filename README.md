@@ -13,4 +13,4 @@ and uncomment all the code which I've commented.
 ill complete it soon!
 
 to check out or run the project you can run the index.html file which is not in any folder [not the one in dist folder]
-or you can directly open through this link - 
+or you can directly open through this link -  https://saad696.github.io/Google-Maps-Api/
