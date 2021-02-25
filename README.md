@@ -1,4 +1,6 @@
 # Google-Maps-Api
+To check it out - https://saad696.github.io/Google-Maps-Api/dist
+
 This project is based on google maps api 
 actually this is incomple and the api key is for only development mode which restrict much of its features. 
 In order to get the proper key we need to create a billing account in google cloud platform to use google maps api to fullest, due to some reasons my card isn't acceptable for billing account
@@ -17,4 +19,4 @@ or you can directly open through this link -  https://saad696.github.io/Google-M
 
 <img align='center' src = https://github.com/saad696/Google-Maps-Api/blob/master/MapsApi.JPG width = 550>
 
-To check it out - 
+
